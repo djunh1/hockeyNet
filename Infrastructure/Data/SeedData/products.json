@@ -1,0 +1,405 @@
+[
+  {
+    "Name": "Hopewell Hockey Heritage H1",
+    "Description": "1/2 inch, mid toe (rounded) , open face, medium length. Similar to the Bauer P92",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-22.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "9/16 inch mid, slightly open face, rouded toe, medium length. Similar to the Bauer P88",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-22.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "Heel Curve, open face, square toe, long length. Similar to the Bauer P02",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-22.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "1/2 Inch Mid-Heel, open wedge, rounded toe, long length. Similar to the Bauer P91A",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-22.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "3/8 Inch Mid-Heel. Open Face, rounded toe, medium length. Similar to the Bauer PM9",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-22.png",
+    "ProductTypeId": 5,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Hopewell Hockey Heritage H1",
+    "Description": "1/2 inch, mid toe (rounded) , open face, medium length. Similar to the Bauer P92",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-22.png",
+    "ProductTypeId": 6,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "9/16 inch mid, slightly open face, rouded toe, medium length. Similar to the Bauer P88",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-22.png",
+    "ProductTypeId": 7,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "Heel Curve, open face, square toe, long length. Similar to the Bauer P02",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-22.png",
+    "ProductTypeId": 8,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "1/2 Inch Mid-Heel, open wedge, rounded toe, long length. Similar to the Bauer P91A",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-33.png",
+    "ProductTypeId": 9,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "3/8 Inch Mid-Heel. Open Face, rounded toe, medium length. Similar to the Bauer PM9",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-44.png",
+    "ProductTypeId": 10,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Hopewell Hockey Heritage H1",
+    "Description": "1/2 inch, mid toe (rounded) , open face, medium length. Similar to the Bauer P92",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-22.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "9/16 inch mid, slightly open face, rouded toe, medium length. Similar to the Bauer P88",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-33.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "Heel Curve, open face, square toe, long length. Similar to the Bauer P02",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-44.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "1/2 Inch Mid-Heel, open wedge, rounded toe, long length. Similar to the Bauer P91A",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-22.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "3/8 Inch Mid-Heel. Open Face, rounded toe, medium length. Similar to the Bauer PM9",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-22.png",
+    "ProductTypeId": 5,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Hopewell Hockey Heritage H1",
+    "Description": "1/2 inch, mid toe (rounded) , open face, medium length. Similar to the Bauer P92",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-33.png",
+    "ProductTypeId": 6,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "9/16 inch mid, slightly open face, rouded toe, medium length. Similar to the Bauer P88",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-33.png",
+    "ProductTypeId": 7,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "Heel Curve, open face, square toe, long length. Similar to the Bauer P02",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-22.png",
+    "ProductTypeId": 8,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "1/2 Inch Mid-Heel, open wedge, rounded toe, long length. Similar to the Bauer P91A",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-44.png",
+    "ProductTypeId": 9,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "3/8 Inch Mid-Heel. Open Face, rounded toe, medium length. Similar to the Bauer PM9",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-22.png",
+    "ProductTypeId": 10,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Hopewell Hockey Heritage H1",
+    "Description": "1/2 inch, mid toe (rounded) , open face, medium length. Similar to the Bauer P92",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-22.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "9/16 inch mid, slightly open face, rouded toe, medium length. Similar to the Bauer P88",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-22.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "Heel Curve, open face, square toe, long length. Similar to the Bauer P02",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-33.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "1/2 Inch Mid-Heel, open wedge, rounded toe, long length. Similar to the Bauer P91A",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-44.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "3/8 Inch Mid-Heel. Open Face, rounded toe, medium length. Similar to the Bauer PM9",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-22.png",
+    "ProductTypeId": 5,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Hopewell Hockey Heritage H1",
+    "Description": "1/2 inch, mid toe (rounded) , open face, medium length. Similar to the Bauer P92",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-44.png",
+    "ProductTypeId": 6,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "9/16 inch mid, slightly open face, rouded toe, medium length. Similar to the Bauer P88",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-22.png",
+    "ProductTypeId": 7,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "Heel Curve, open face, square toe, long length. Similar to the Bauer P02",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-22.png",
+    "ProductTypeId": 8,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "1/2 Inch Mid-Heel, open wedge, rounded toe, long length. Similar to the Bauer P91A",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-22.png",
+    "ProductTypeId": 9,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "3/8 Inch Mid-Heel. Open Face, rounded toe, medium length. Similar to the Bauer PM9",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-44.png",
+    "ProductTypeId": 10,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Hopewell Hockey Heritage H1",
+    "Description": "1/2 inch, mid toe (rounded) , open face, medium length. Similar to the Bauer P92",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-22.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "9/16 inch mid, slightly open face, rouded toe, medium length. Similar to the Bauer P88",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-33.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "Heel Curve, open face, square toe, long length. Similar to the Bauer P02",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-22.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "1/2 Inch Mid-Heel, open wedge, rounded toe, long length. Similar to the Bauer P91A",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-22.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "3/8 Inch Mid-Heel. Open Face, rounded toe, medium length. Similar to the Bauer PM9",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-22.png",
+    "ProductTypeId": 5,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Hopewell Hockey Heritage H1",
+    "Description": "1/2 inch, mid toe (rounded) , open face, medium length. Similar to the Bauer P92",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-44.png",
+    "ProductTypeId": 6,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "9/16 inch mid, slightly open face, rouded toe, medium length. Similar to the Bauer P88",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-33.png",
+    "ProductTypeId": 7,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "Heel Curve, open face, square toe, long length. Similar to the Bauer P02",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-22.png",
+    "ProductTypeId": 8,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "1/2 Inch Mid-Heel, open wedge, rounded toe, long length. Similar to the Bauer P91A",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-44.png",
+    "ProductTypeId": 9,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "3/8 Inch Mid-Heel. Open Face, rounded toe, medium length. Similar to the Bauer PM9",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-22.png",
+    "ProductTypeId": 10,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Hopewell Hockey Heritage H1",
+    "Description": "1/2 inch, mid toe (rounded) , open face, medium length. Similar to the Bauer P92",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-22.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "9/16 inch mid, slightly open face, rouded toe, medium length. Similar to the Bauer P88",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-22.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "Heel Curve, open face, square toe, long length. Similar to the Bauer P02",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-44.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "1/2 Inch Mid-Heel, open wedge, rounded toe, long length. Similar to the Bauer P91A",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-33.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "3/8 Inch Mid-Heel. Open Face, rounded toe, medium length. Similar to the Bauer PM9",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-33.png",
+    "ProductTypeId": 5,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Hopewell Hockey Heritage H1",
+    "Description": "1/2 inch, mid toe (rounded) , open face, medium length. Similar to the Bauer P92",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-22.png",
+    "ProductTypeId": 6,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "9/16 inch mid, slightly open face, rouded toe, medium length. Similar to the Bauer P88",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-44.png",
+    "ProductTypeId": 7,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "Heel Curve, open face, square toe, long length. Similar to the Bauer P02",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-44.png",
+    "ProductTypeId": 8,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "1/2 Inch Mid-Heel, open wedge, rounded toe, long length. Similar to the Bauer P91A",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-33.png",
+    "ProductTypeId": 9,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Hopewell Hockey Heritage",
+    "Description": "3/8 Inch Mid-Heel. Open Face, rounded toe, medium length. Similar to the Bauer PM9",
+    "Price": 200,
+    "PictureUrl": "images/products/stick-44.png",
+    "ProductTypeId": 10,
+    "ProductBrandId": 5
+  }
+
+
+  
+]
