@@ -1,7 +1,14 @@
 
-<h1>Welcome to {{ title }}</h1>
+<app-nav-bar></app-nav-bar>
 
-<div class="container">
-    <button class="btn btn-success mr-3">Test 1</button>
-    <button class="btn btn-success mr-3">Test 2</button>
+
+
+<div class="container application_container">
+    <h1>Welcome to {{ title }}</h1>
+    
+    <ol>
+        <li class="list-unstyled" *ngFor="let product of products">
+            {{ product.name}}
+        </li>
+    </ol>
 </div>
