@@ -1,5 +1,4 @@
 <div class="container mt-5">
-
     <div class="row" *ngIf="product">
         <div class="col-6">
             <img src="{{product.pictureUrl}}" alt="{{product.name}}" class="img-fluid w-100">
@@ -16,12 +15,13 @@
             <div class="mt-5">
                 <p><strong> Curve: </strong> {{ product.productType}} </p>
                 <p><strong> Flex: </strong> {{ product.productBrand}} </p>
+                <h5>Description</h5>
+                <p>{{product.description}}</p>
             </div>
         </div>
         <div class="row mt-5">
             <div class="col-12 ml-3">
-                <h4>Description</h4>
-                <p>{{product.description}}</p>
+                
             </div>
         </div>
     </div>

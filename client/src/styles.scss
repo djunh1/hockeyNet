@@ -13,3 +13,32 @@ body {
     line-height: 1.7;
     box-sizing: border-box;
   }
+
+h1.headerCustom{
+  font-family: 'Averia Libre', cursive;
+}
+
+.xng-breadcrumb-root {
+  padding:8px 16px;
+  display: inline;
+  border-radius: 0;
+  color: #1d3a51;
+}
+
+label.xng-breadcrumb-trail{
+  margin-bottom: 0;
+  font-size: 21px;
+  text-decoration: underline;
+  color: #1d3a51;
+  font-weight: bold;
+  font-family: 'Averia Libre', cursive;
+}
+
+.xng-breadcrumb-separator {
+  padding: 0 0;
+}
+
+.StripeElement {
+  height: 3.125em;
+}
+
