@@ -5,3 +5,6 @@ appsettings.json
 API/hockeynet.db-wal
 API/hockeynet.db-shm
 dump.rdb
+*.rdb
+API/identity.db-shm
+API/identity.db-wal

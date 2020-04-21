@@ -13,6 +13,12 @@ namespace API.Controllers
             _context = context;
         }
 
+        [HttpGet("testAuth")]
+        [Authorize]
+        public ActionResult<string> GetSecretText(){
+            return "Unassisted Baby";
+        }
+
         [HttpGet("notfound")]
         public ActionResult GetNotFoundRequest(){
             var unassisted = _context.Products.Find(2334);
