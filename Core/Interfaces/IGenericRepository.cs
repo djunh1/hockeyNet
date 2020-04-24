@@ -12,5 +12,10 @@ namespace Core.Interfaces
         Task<T> GetEntityWithSpec(ISpecification<T> spec);
         Task<IReadOnlyList<T>> ListAsync(ISpecification<T> spec);
         Task<int> CountAsync(ISpecification<T> specification);
+
+        // Add some actions, not async, won't be adding directly to database. Track 
+        void Add(T entity);
+        void Update(T entity);
+        void Delete(T entity);
     }
 }
