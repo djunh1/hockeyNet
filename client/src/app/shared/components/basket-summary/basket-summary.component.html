@@ -1,6 +1,6 @@
-<ng-container *ngIf="basket$ | async">
+<ng-container *ngIf="items.length > 0">
     <div class="table-responsive">
-        <table class="table">
+        <table class="table table-borderless">
             <thead>
                 <tr>
                     <th class="border-0 " scope="col" [class.bg-light]="isBasket">
@@ -33,14 +33,14 @@
                 </tr>
             </thead>
             <tbody>
-                <tr *ngFor="let hockeyStick of (basket$ | async).items">
+                <tr *ngFor="let hockeyStick of items">
                     <th scope="row">
                         <div class="p-0">
                             <img src="{{hockeyStick.pictureUrl}}" alt="{{hockeyStick.productName}}"
                                 class="img-fluid" style="max-height: 50px;">
                             <div class="ml-3 d-inline-block align-middle">
                                 <h5 class="mb-0">
-                                    <a routerLink="/shop/{{hockeyStick.id}}"
+                                    <a routerLink="/shop/{{hockeyStick.id || hockeyStick.productId  }}"
                                         class="text-dark">{{hockeyStick.productName}}</a>
                                 </h5>
                                 <span

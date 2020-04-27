@@ -16,8 +16,6 @@ export class CheckoutSuccesComponent implements OnInit {
 
     if (state) {
       this.order = state as IOrder;
-    } else {
-      
     }
   }
 

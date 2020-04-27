@@ -1,8 +1,8 @@
 <div class="container mt-5">
-    <div><i class="fa fa-check-circle fa-5x" style="color: green;"></i></div>
+    <div><i class="fa fa-check-circle fa-5x mb-4" style="color: green;"></i></div>
     <h2>Thank you. Your order is confirmed</h2>
     <p class="mb-4">Expect Delivery in a few days!</p>
-    <button class="btn btn-outline-success">View your order</button>
-    <button class="btn btn-outline-success">View your orders</button>
+    <button *ngIf="order" routerLink="/orders/{{order?.id}}" class="btn btn-outline-success mr-5">View your order</button>
+    <button *ngIf="!order" routerLink="/orders" class="btn btn-outline-success">View your orders</button>
 
 </div>
