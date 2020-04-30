@@ -19,6 +19,10 @@ namespace API.Extensions
             services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddScoped<IPaymentService, PaymentService>();
 
+            //Caching => singleton, shared across all requests
+            services.AddSingleton<IResponseCacheService, ResponseCacheService>();
+
+
             services.Configure<ApiBehaviorOptions>(options => {
                 options.InvalidModelStateResponseFactory = actionContext => {
                     var errors = actionContext.ModelState
