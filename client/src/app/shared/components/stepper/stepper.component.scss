@@ -21,7 +21,7 @@ button.nav-link {
         outline: none;
     }
     &:disabled:not(.active) {
-        color:#1d3a51;
+        color:#a09898
     }
 }
 
@@ -36,5 +36,5 @@ button.nav-link {
     -ms-flex-positive: 1;
     flex-grow: 1;
     text-align: center;
-    margin: 1rem;
+    margin: 3px;
 }
